@@ -1,4 +1,5 @@
-# vue-hello2
+# plan 2slo
+
 
 ## Project setup
 ```
